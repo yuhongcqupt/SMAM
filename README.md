@@ -14,4 +14,4 @@ Pycharm 2022.3.3 Edition, Intel(R) Core(TM) GoForce RTX 3090 GPU @ 3.00 GHz, 24.
 Qiuyu Mei, Hong Yu, Shijie Yu, et al. Self-Supervised Multi-View Multi-Label Learning with Attention Mechanisms.
 
 ### **State:**
-This work has been submitted to Multimedia Systems.
+This work has been accepted for publication in Multimedia Systems. We would like to acknowledge the open-source code of LMVCAT (https://github.com/justsmart/lmvcat) proposed by Liu, Chengliang et al., which has provided valuable technical references for the development of our work.
